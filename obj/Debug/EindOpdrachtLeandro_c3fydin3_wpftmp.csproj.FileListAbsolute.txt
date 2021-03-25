@@ -1,0 +1,6 @@
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro_c3fydin3_wpftmp.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro_c3fydin3_wpftmp.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro.exe
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro.pdb
+C:\Users\Gebruiker\source\repos\EindOpdrachtLeandro\obj\Debug\EindOpdrachtLeandro_c3fydin3_wpftmp.csprojAssemblyReference.cache
